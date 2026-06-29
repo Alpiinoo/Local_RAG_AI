@@ -1,0 +1,5 @@
+foundry-local-sdk
+sentence-transformers
+pypdf
+python-dotenv
+numpy
