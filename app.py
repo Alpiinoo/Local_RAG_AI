@@ -32,7 +32,7 @@ if prompt := st.chat_input("Type your question..."):
     # Reply from the assistant
     with st.chat_message("assistant"):
         with st.spinner("Thinking..."):
-            chunks = get_top_chunks(prompt, top_k=3)
+            chunks = get_top_chunks(prompt, top_k=2)
             answer = answer_query(prompt, chunks)
             
             st.markdown(answer)
