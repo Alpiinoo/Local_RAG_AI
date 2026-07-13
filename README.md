@@ -5,6 +5,8 @@ A fully offline AI-powered Q&A assistant built with Microsoft Foundry Local and 
 ## What it does
 Ask questions about your local documents and get accurate, source-grounded answers — no internet required.
 
+<img width="813" height="685" alt="Screenshot 2026-07-13 145042" src="https://github.com/user-attachments/assets/851dd8ee-3701-4f83-95d7-b5ced71b0966" />
+
 ## Tech Stack
 - **Microsoft Foundry Local** — on-device LLM inference
 - **sentence-transformers** — document embeddings
